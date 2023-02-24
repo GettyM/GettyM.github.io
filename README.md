@@ -1,7 +1,7 @@
 # htmlcss
 
 Html and Css tutorial task
-##github pages link
+## github pages link
 <a href="https://gettym.github.io/">Project One</a>
 
 ## Git and GitHub Questions:
